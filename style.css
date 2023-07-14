@@ -234,6 +234,7 @@
         height: 100%;
 
         padding: 0 41px;
+        margin-bottom: 80px;
 
         display: flex;
         justify-content: center;
@@ -394,7 +395,6 @@
 
     .registration h3{
         font-weight: 400;
-        margin-bottom: 80px;
     }
     .registration a{
         text-decoration: none;
@@ -434,6 +434,7 @@
         height: 100%;
 
         padding: 0 20px;
+        margin-bottom: 80px;
 
         display: flex;
         justify-content: center;
@@ -594,7 +595,6 @@
 
     .registration h3{
         font-weight: 400;
-        margin-bottom: 80px;
     }
     .registration a{
         text-decoration: none;
